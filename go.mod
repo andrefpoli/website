@@ -1,4 +1,4 @@
-module github.com/andrefpoli/andrefpoli.github.io
+module github.com/andrefpoli/website
 
 go 1.18
 
