@@ -1,11 +1,11 @@
 ---
-title: Razon Yang
-description: Gopher, PHPer, Full Stack Engineer.
+title: André Ferreira
+description: Trader de Renda Fixa, Engenheiro.
 social:
-  github: razonyang
-  twitter: razonyang
-  email: razonyang@gmail.com
-  website: https://razonyang.com/
-  patreon: razonyang
-  paypal: razonyang
+  github: andrefpoli
+  twitter: @YoloCap_
+  email: criar
+  website: http://dynamic-hedge.com.br/
+  patreon: nada
+  paypal: nada
 ---
